@@ -6,9 +6,7 @@
 
 ### Code:
 
-## Script.py
-
-``` pythoh
+``` python
 
 from collections import defaultdict
 from collections import Counter
